@@ -55,13 +55,13 @@ pbix Format: [Power BI Dashboard pbix](/Superstore_Sales_powerbi.pbix/)
 
 Also if you don't wanna do this , I'm keeping all the picture here,
 
-![Overview Dashboard](/assets\overview.png/)
+![Overview Dashboard](assets/overview.png)
 *Overview Dashboard*
 
-![Discount Impact](/assets\Discount_impact.png/)
+![Discount Impact](assets/Discount_impact.png)
 *Discount Impact Dashboard*
 
-![Lose Analysis](/assets\Lose_analysis.png/)
+![Lose Analysis](assets/Lose_analysis.png)
 *Lose Analysis Dashboard*
 
 
@@ -95,10 +95,10 @@ Monitor KPIs in real-time for smarter strategy
 
 ### This case study shows end-to-end analytics skills:
 
-SQL (data aggregation)
+**SQL** (data aggregation )
 
-Excel (validation & KPI calc)
+**Excel** (validation & KPI calc)
 
-Power BI (dashboard & insights)
+**Power BI** (dashboard & insights)
 
-Business storytelling (turning numbers into action)
+**Business storytelling** (turning numbers into action)
