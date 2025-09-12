@@ -53,6 +53,17 @@ PDF Format:  [Power BI Dashboard PDF](/superstore_sales_powerbi.pdf/)
 
 pbix Format: [Power BI Dashboard pbix](/Superstore_Sales_powerbi.pbix/)
 
+Also if you don't wanna do this , I'm keeping all the picture here,
+
+![Overview Dashboard](/assets\overview.png/)
+*Overview Dashboard*
+
+![Discount Impact](/assets\Discount_impact.png/)
+*Discount Impact Dashboard*
+
+![Lose Analysis](/assets\Lose_analysis.png/)
+*Lose Analysis Dashboard*
+
 
 ## Key Insights
 
