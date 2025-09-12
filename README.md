@@ -26,7 +26,8 @@ Provide actionable recommendations for business growth
 Aggregated profit/loss by Category, Region, and Product
 
 Analyzed discount distribution for profitable vs. loss orders
-
+All the SQL Queries needed:
+[SQL Queries](/sql_and_dax\superstore_sql.sql/)
 ### Excel Analysis
 
 Verified totals with pivot tables
@@ -43,7 +44,14 @@ KPI Cards: Total Sales (2.30M), Profit (286K), Loss % (6.8%), Avg Profit Margin 
 
 **Discount Analysis:** Loss orders had an average discount of 48%, while profitable orders averaged much lower
 
+Power BI DAX:
+[DAX](/sql_and_dax\superstore_DAX_.md/)
+
 You can get the Power BI Dashboard here,
+
+PDF Format:  [Power BI Dashboard PDF](/superstore_sales_powerbi.pdf/)
+
+pbix Format: [Power BI Dashboard pbix](/Superstore_Sales_powerbi.pbix/)
 
 
 ## Key Insights
