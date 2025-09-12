@@ -5,13 +5,13 @@ The client, a retail store, struggled to identify which products, regions, and d
 
 The goal was to build a data-driven dashboard that would:
 
-Track Main KPI Keys: (Sales, Profit, Profit Margin, Loss %)
+* Track Main KPI Keys: (Sales, Profit, Profit Margin, Loss %)
 
-Identify loss-making products, regions, and categories
+* Identify loss-making products, regions, and categories
 
-Show the impact of discounts on profitability
+* Show the impact of discounts on profitability
 
-Provide actionable recommendations for business growth
+* Provide actionable recommendations for business growth
 
 ## Approach
 
@@ -23,35 +23,35 @@ Provide actionable recommendations for business growth
 
 ### SQL Queries
 
-Aggregated profit/loss by Category, Region, and Product
+* Aggregated profit/loss by Category, Region, and Product
 
-Analyzed discount distribution for profitable vs. loss orders
+* Analyzed discount distribution for profitable vs. loss orders
 All the SQL Queries needed:
 [SQL Queries](/sql_and_dax\superstore_sql.sql/)
 ### Excel Analysis
 
-Verified totals with pivot tables
+* Verified totals with pivot tables
 
-Calculated KPIs like Profit Margin %, Loss %, and AOV (Average Order Value)
+* Calculated KPIs like Profit Margin %, Loss %, and AOV (Average Order Value)
 
 ### Power BI Dashboard
 
-KPI Cards: Total Sales (2.30M), Profit (286K), Loss % (6.8%), Avg Profit Margin (12%)
+* **KPI Cards:** Total Sales (2.30M), Profit (286K), Loss % (6.8%), Avg Profit Margin (12%)
 
-**Category Analysis:** Furniture had highest losses (-70K) while Technology was most profitable
+* **Category Analysis:** Furniture had highest losses (-70K) while Technology was most profitable
 
-**Regional/Geographic Analysis:** Losses concentrated in Philadelphia, Houston, and Chicago
+* **Regional/Geographic Analysis:** Losses concentrated in Philadelphia, Houston, and Chicago
 
-**Discount Analysis:** Loss orders had an average discount of 48%, while profitable orders averaged much lower
+* **Discount Analysis:** Loss orders had an average discount of 48%, while profitable orders averaged much lower
 
 Power BI DAX:
 [DAX](/sql_and_dax\superstore_DAX_.md/)
 
 You can get the Power BI Dashboard here,
 
-PDF Format:  [Power BI Dashboard PDF](/superstore_sales_powerbi.pdf/)
+* PDF Format:  [Power BI Dashboard PDF](/superstore_sales_powerbi.pdf/)
 
-pbix Format: [Power BI Dashboard pbix](/Superstore_Sales_powerbi.pbix/)
+* pbix Format: [Power BI Dashboard pbix](/Superstore_Sales_powerbi.pbix/)
 
 Also if you don't wanna do this , I'm keeping all the picture here,
 
@@ -67,31 +67,31 @@ Also if you don't wanna do this , I'm keeping all the picture here,
 
 ## Key Insights
 
-Furniture category contributed the highest losses due to heavy discounting.
+* Furniture category contributed the highest losses due to heavy discounting.
 
-West region performed well, while some cities (Philadelphia, Houston) consistently showed negative profits.
+* West region performed well, while some cities (Philadelphia, Houston) consistently showed negative profits.
 
-High discounts directly correlated with losses → nearly half of discounted orders resulted in negative profit.
+* High discounts directly correlated with losses → nearly half of discounted orders resulted in negative profit.
 
 ## Recommendations
 
-Reduce excessive discounting in Furniture and Office Supplies → even a 10% reduction could significantly improve margins.
+* Reduce excessive discounting in Furniture and Office Supplies → even a 10% reduction could significantly improve margins.
 
-Focus on Technology category as it drives majority of profits → invest in marketing here.
+* Focus on Technology category as it drives majority of profits → invest in marketing here.
 
-Re-evaluate unprofitable cities → consider adjusting logistics, pricing, or promotions.
+* Re-evaluate unprofitable cities → consider adjusting logistics, pricing, or promotions.
 
-Implement dynamic discount rules → avoid blanket discounts that lead to losses.
+* Implement dynamic discount rules → avoid blanket discounts that lead to losses.
 
 ## Impact
 
-This dashboard provides a clear view of sales vs. profitability, helping business leaders:
+* This dashboard provides a clear view of sales vs. profitability, helping business leaders:
 
-Identify where the business is losing money
+* Identify where the business is losing money
 
-Take data-driven pricing and discounting decisions
+* Take data-driven pricing and discounting decisions
 
-Monitor KPIs in real-time for smarter strategy
+* Monitor KPIs in real-time for smarter strategy
 
 ### This case study shows end-to-end analytics skills:
 
