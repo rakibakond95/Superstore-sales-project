@@ -27,7 +27,7 @@ The goal was to build a data-driven dashboard that would:
 
 * Analyzed discount distribution for profitable vs. loss orders
 All the SQL Queries needed:
-[SQL Queries](/sql_and_dax\superstore_sql.sql/)
+[SQL Queries](/sql_and_dax/superstore_sql.sql/)
 ### Excel Analysis
 
 * Verified totals with pivot tables
@@ -42,10 +42,10 @@ All the SQL Queries needed:
 
 * **Regional/Geographic Analysis:** Losses concentrated in Philadelphia, Houston, and Chicago
 
-* **Discount Analysis:** Loss orders had an average discount of 48%, while profitable orders averaged much lower
+* **Discount Analysis:** Loss orders had an average discount of 48%, while profitable orders averaged much lower.
 
 Power BI DAX:
-[DAX](/sql_and_dax\superstore_DAX_.md/)
+[DAX](/sql_and_dax/superstore_DAX_.md/)
 
 You can get the Power BI Dashboard here,
 
